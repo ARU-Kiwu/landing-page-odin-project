@@ -187,3 +187,11 @@ nav ul {
 }
 
 /* ==== footer section ==== */
+
+footer {
+    text-align: center;
+    background-color: var(--darkgrey-color);
+    padding:40px;
+    font-size: 14px;
+    color:var(--white-color);
+}
