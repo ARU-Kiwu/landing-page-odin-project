@@ -114,9 +114,13 @@ nav ul {
 .card-wrapper {
     display: flex;
     justify-content: center;
-    gap:20px;
+    gap:40px;
     margin:0 200px;
     text-align: center;
+}
+
+.card {
+    max-width:250px;
 }
 
 .card div {
@@ -126,8 +130,9 @@ nav ul {
     margin-bottom:5px;
 }
 
-
 /* ==== Quote section ==== */
+
+
 
 /* ==== CTA section ==== */
 
